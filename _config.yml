@@ -1,0 +1,28 @@
+name: abetterwaytohome
+favicon: null
+layout_spectrum: 0.5881068031303585
+typography_spectrum: 0.6223226783331484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4913807970006019
+  lightness: 0.7306971338111907
+  saturation: 0.3383706642780453
+  rhythmicContrast: 0.8975966318976134
+purpose: []
